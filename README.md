@@ -2,6 +2,10 @@
 
 Designed and developed a highly responsive Netflix homepage clone. This project focuses on pixel-perfect UI design, advanced CSS layouts, and mobile-first responsiveness.
 
+## 📸 UI Preview
+
+<img src="images/UI.png" width="1000">
+
 ## 🚀 Key Features
 * **Layered Backgrounds:** Implemented complex image overlays using CSS linear gradients.
 * **Flexible Content Sections:** Used a modular approach to build reusable sections (FAQ, feature rows).
